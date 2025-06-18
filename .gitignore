@@ -1,0 +1,7 @@
+./sample/.github
+./sample/build/*
+./sample/aiken.lock
+./sample/plutus.json
+./scripts/node_modules/*
+./scripts/package-lock.json
+./scripts/note.txt
